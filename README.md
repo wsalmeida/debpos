@@ -17,7 +17,7 @@ O tema é WhiteSur-icon-theme, deve ser inserido naa pasta **~/.icons** do usuá
 local que é o recomendado se não existir essa pasta basta cria-la ou para aplicar 
 de uma forma global basta inseri-lo **/usr/share/icons** tema se encontra em https://gitlab.com/wsalmeida/debpos/-/tree/main/src/temas-%C3%ADcones <br>
 Créditos: https://github.com/vinceliuice/WhiteSur-icon-theme
-<p align="center"> <img src="https://gitlab.com/wsalmeida/debpos/-/blob/main/src/imagens/preview-icon.png"/> </p>
+<p align="center"> <img src="https://github.com/wsalmeida/debpos/blob/main/src/imagens/preview-icon.png"/> </p>
 
 # Fontes
 As fontes devem ficar preferencialmente **~/.fonts** do usuário local mas se 
