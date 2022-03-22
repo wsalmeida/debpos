@@ -23,3 +23,4 @@ Créditos: https://github.com/vinceliuice/WhiteSur-icon-theme
 As fontes devem ficar preferencialmente **~/.fonts** do usuário local mas se 
 quiser e seja aplicada de um forma global mova para **/usr/share/fonts** as fontes
 se encontram em https://gitlab.com/wsalmeida/debpos/-/tree/main/src/fontes
+<p align="center"> <img src="https://github.com/wsalmeida/debpos/blob/main/src/imagens/preview-fantasque.png"/> </p>
