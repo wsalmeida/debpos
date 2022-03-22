@@ -5,8 +5,8 @@ fontes, papeis de parede, scripts entre outros arquivos com a finaliade de facil
 pós-instalação do sistema operativo **Gnu/Linux Debian** com interface **xfce**.
 
 # Tema GTK
-Meu tema predileto é o WhiteSur-gtk-theme, par aplicar esse basta inseri-lo 
+Meu tema predileto é o WhiteSur-gtk-theme, para aplica-lo basta inseri-lo 
 a pasta **~/.themes** do usuário local se não existir essa pasta basta cria-la o
-tema se encontra em <src = "https://gitlab.com/wsalmeida/debpos/-/tree/main/src/temas-gtk">
+tema se encontra em https://gitlab.com/wsalmeida/debpos/-/tree/main/src/temas-gtk
 
 
