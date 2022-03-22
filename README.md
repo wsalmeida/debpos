@@ -10,7 +10,7 @@ local que é o recomendado se não existir essa pasta basta cria-la ou para apli
 de uma forma global basta mova para **/usr/share/themes** as pasta do tema 
 se encontra em https://gitlab.com/wsalmeida/debpos/-/tree/main/src/temas-gtk <br>
 Créditos: https://github.com/vinceliuice/WhiteSur-gtk-theme <br>
-<img src="https://gitlab.com/wsalmeida/debpos/-/blob/main/src/imagens/preview-theme.png">
+<img src="https://gitlab.com/wsalmeida/debpos/src/imagens/preview-theme.png">
 
 # Tema de ícones
 O tema é WhiteSur-icon-theme, deve ser inserido naa pasta **~/.icons** do usuário 
